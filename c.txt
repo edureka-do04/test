@@ -1,5 +1,9 @@
 dvgshv
 cjhcvhjgs
 shgcvgh
+<<<<<<< HEAD
 
 djfbvhjadded
+=======
+added
+>>>>>>> 318c6f0e08790eda8ced337a8bcc0bf78c4292ea
